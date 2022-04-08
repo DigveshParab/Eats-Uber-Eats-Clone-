@@ -1,0 +1,10 @@
+react native 
+yelp api 
+redux 
+google api 
+firebase
+
+
+tip:- when ever styling modal 
+1> inside modal first give a view that will cover the top part which can be translucent and second view containing the actual content
+2> make a whole view give it a background of black and translucent with a flex:1 and inside thid make another view and aign it at flex-end 

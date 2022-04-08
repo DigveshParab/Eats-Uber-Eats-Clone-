@@ -1,0 +1,1 @@
+const homeCreenBackground = #d1d2d3
