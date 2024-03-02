@@ -1,6 +1,6 @@
 # EatsExpress: Your Ultimate Food Delivery Solution
 
-Welcome to EatsExpress! Our cutting-edge project is designed to provide you with the seamless experience of Uber Eats, offering a convenient platform to explore, order, and enjoy delicious meals from a variety of restaurants. With our sleek and intuitive user interface, advanced search functionality, and seamless checkout process, EatsExpress redefines the way you interact with food delivery services.
+Welcome to EatsExpress! Our project is designed to provide you with the seamless experience of Uber Eats, offering a convenient platform to explore, order, and enjoy delicious meals from a variety of restaurants. With our sleek and intuitive user interface, advanced search functionality, and seamless checkout process, EatsExpress redefines the way you interact with food delivery services.
 
 ## Key Features
 
